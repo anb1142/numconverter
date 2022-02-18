@@ -2,7 +2,7 @@
 	"name": "numconvert",
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "http://anb1142.github.io/akto",
+	"homepage": "http://anb1142.github.io/numconverter",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
